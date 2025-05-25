@@ -1,60 +1,40 @@
-<h1 align="center">Hey, I'm Danny Bowen</h1>
-<p align="center">Creative thinker · Builder of tools · Curious human</p>
+<h1 align="center">Danny Bowen</h1>
+<p align="center">Builder of tools. Systems thinker. Focused on what works.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wtfdanny&style=flat&color=gray" alt="profile views" />
-  <img src="https://img.shields.io/badge/focus-automation-blue" />
-  <img src="https://img.shields.io/badge/stack-flexible-lightgrey" />
+<hr/>
+
+<h3>What I Do</h3>
+<ul>
+  <li>Simplify complex problems through code and process</li>
+  <li>Build tools that are reliable, scalable, and easy to use</li>
+  <li>Design systems with longevity in mind</li>
+  <li>Work quietly, iterate quickly</li>
+</ul>
+
+<h3>Toolset</h3>
+<p>
+  I use whatever works best. Languages and frameworks change—principles don’t.<br/>
+  The focus is on clarity, stability, and keeping things maintainable.
 </p>
 
----
+<h3>Other Notes</h3>
+<ul>
+  <li>I build internal systems used every day</li>
+  <li>I prefer precision over flash</li>
+  <li>I think naming things is half the job</li>
+  <li>I value quiet reliability over loud features</li>
+</ul>
 
-### ⚡ What I'm About
-
-- Simplifying complexity  
-- Creating systems that last  
-- Building tools with impact  
-- Exploring what's next
-
----
-
-### 🧰 My Toolbox
-
-Broad and flexible. I choose the tools that suit the challenge — from quick CLI scripts to scalable backend systems.  
-Design principles matter more than stack preferences. Clean, modular, and human-first always wins.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wtfdanny&show_icons=true&hide_title=true&hide_border=true&hide=issues&theme=transparent" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtfdanny&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
-### ✨ Fun Facts
-
-- I build internal tools that people actually use  
-- I care about naming things *way too much*  
-- I’m into craft beer, good bourbon, and late-night sky watching  
-- I believe software should be useful *and* delightful
-
----
-
-### 🌐 Let's Connect
-
+<h3>Contact</h3>
 <p>
   <a href="https://github.com/wtfdanny">GitHub</a> · 
   <a href="https://linkedin.com/in/danny-bowen">LinkedIn</a> · 
   <a href="mailto:danny@helter.net">Email</a>
 </p>
 
----
+<hr/>
 
 <blockquote align="center">
-  <em>“The people who are crazy enough to think they can change the world are the ones who do.”</em>  
-  <br/>– Steve Jobs
+  <em>“The people who are crazy enough to think they can change the world are the ones who do.”</em><br/>
+  – Steve Jobs
 </blockquote>
