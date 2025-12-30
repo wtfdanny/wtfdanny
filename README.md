@@ -42,11 +42,10 @@
 ---
 
 ### Contact
-[GitHub](https://github.com/wtfdanny) ·
-[LinkedIn](https://linkedin.com/in/danny-bowen) ·
-<a href="mailto:&#100;&#97;&#110;&#110;&#121;&#64;&#104;&#101;&#108;&#116;&#101;&#114;&#46;&#110;&#101;&#116;">
-  Email
-</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wtfdanny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTYuODE0IDIwLjQ1MkgzLjg2MVY5aDIuOTUzdjExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/danny-bowen)
+[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:&#100;&#97;&#110;&#110;&#121;&#64;&#104;&#101;&#108;&#116;&#101;&#114;&#46;&#110;&#101;&#116;)
 
 ---
 
