@@ -1,38 +1,54 @@
 <h1 align="center">Danny Bowen</h1>
-<p align="center">Builder of tools. Systems thinker. Focused on what works.</p>
-
-<hr/>
-
-<h3>What I Do</h3>
-<ul>
-  <li>Simplify complex problems through code and process</li>
-  <li>Build tools that are reliable, scalable, and easy to use</li>
-  <li>Design systems with longevity in mind</li>
-  <li>Work quietly, iterate quickly</li>
-</ul>
-
-<h3>Toolset</h3>
-<p>
-  I use whatever works best. Languages and frameworks change—principles don’t.<br/>
-  The focus is on clarity, stability, and keeping things maintainable.
+<p align="center">
+  Software engineer focused on reliable systems and practical solutions
 </p>
 
-<h3>Other Notes</h3>
-<ul>
-  <li>I build internal systems used every day</li>
-  <li>I prefer precision over flash</li>
-  <li>I think naming things is half the job</li>
-  <li>I value quiet reliability over loud features</li>
-</ul>
+---
 
-<h3>Contact</h3>
-<p>
-  <a href="https://github.com/wtfdanny">GitHub</a> · 
-  <a href="https://linkedin.com/in/danny-bowen">LinkedIn</a> · 
-  <a href="mailto:danny@helter.net">Email</a>
-</p>
+### Engineering Scope
+- Backend systems, automation, and internal services  
+- Frontend and interface work as part of complete solutions  
+- End-to-end ownership: design, build, operate, and maintain 
 
-<hr/>
+
+### Core Focus
+
+![Backend Systems](https://img.shields.io/badge/Backend%20Systems-1f2937?style=for-the-badge)
+![Internal Tooling](https://img.shields.io/badge/Internal%20Tooling-374151?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-4b5563?style=for-the-badge)
+![Reliability](https://img.shields.io/badge/Reliability-6b7280?style=for-the-badge)
+
+
+### Primary Technologies
+
+![Python](https://img.shields.io/badge/Python-2b6cb0?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=node.js&logoColor=6cc24a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e3a8a?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### Interface & Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-374151?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/CSS3-374151?style=for-the-badge&logo=css&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-374151?style=for-the-badge&logo=javascript&logoColor=facc15)
+
+
+### Principles
+- Favor maintainability over cleverness  
+- Design systems to be understood and operated by others  
+- Prefer small, explicit changes  
+- Optimize for long-term stability
+
+---
+
+### Contact
+[GitHub](https://github.com/wtfdanny) ·
+[LinkedIn](https://linkedin.com/in/danny-bowen) ·
+<a href="mailto:&#100;&#97;&#110;&#110;&#121;&#64;&#104;&#101;&#108;&#116;&#101;&#114;&#46;&#110;&#101;&#116;">
+  Email
+</a>
+
+---
 
 <blockquote align="center">
   <em>“The people who are crazy enough to think they can change the world are the ones who do.”</em><br/>
