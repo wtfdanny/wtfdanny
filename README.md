@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-2b6cb0?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=node.js&logoColor=6cc24a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e3a8a?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Redis](https://img.shields.io/badge/Redis-991b1b?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Interface & Frontend
 
